@@ -1,4 +1,4 @@
-# Reinforced-Learning
+# Reinforcement-Learning
 
 -The 'Self Learning' folder contains an implementation of Q Learning trained against a Min-Max agent to implement Self Learning in Tic-Tac-Toe.
 
